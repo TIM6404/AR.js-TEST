@@ -1,0 +1,2 @@
+# AR.js-TEST
+TEST FOR TIM6404
